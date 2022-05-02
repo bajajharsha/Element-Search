@@ -9,6 +9,7 @@ def find(ordered_list, number):
   return False
 
 l = []
+#  code for creating a random list
 for i in range(0, 5):
   li = random.randint(0, 10)
   l.append(li)
